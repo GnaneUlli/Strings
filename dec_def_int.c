@@ -50,3 +50,8 @@ int main(void) {
   printf("%c", *(namePtr+1));   // Output: a
   printf("%c", *(namePtr+7));   // Output: o
 }
+
+if str1== str2 gives 0
+else if str1> str2 gives positive value 
+else str1<str2 gives negative values
+most of the content you will find in strings mcqs
