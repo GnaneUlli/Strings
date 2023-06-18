@@ -26,7 +26,10 @@ Some valid Intializations :
    char c[5] = {'a', 'b', 'c', 'd', '\0'}; 
 
    char c[100];
-   c = "C programming";  // Error array type is not assignable.you can use strcpy which are built in string functions
+ c = "C programming";  // Error array type is not assignable.you can use strcpy which are built in string functions
+but you can do the below assignment
+char c[] ="c programming ";
+char d = c;
 //Indexing of string is same as an array
 //%s is used to print string 
 //we can use fgets() gets() built in functions instead of scanf()
