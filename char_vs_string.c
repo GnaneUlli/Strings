@@ -15,7 +15,7 @@ How does C compiler distinguish a character and a string?
 
 For this purpose the developer of the C compiler brought additional requirements. They are single & double quotes.
 
-So, if you write ‘z’ the compiler understands that you have written a character not a string and thus converts to the corresponding unique integer.
+So,if you write ‘z’ the compiler understands that you have written a character not a string and thus converts to the corresponding unique integer.
 
 Instead if you write “z” the compiler understands that you have written a string not a character and thus will store it as an array of single element.
 
