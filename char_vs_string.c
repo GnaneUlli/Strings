@@ -1,5 +1,4 @@
 How the C standard library functions process characters, strings, lines of text and blocks of memory.*
-
 Understanding the fundamentals of C is important to master it. Each compiler, translator, & interpreter handles these differently. 
 So,a thorough knowledge and understanding is a must. 
 
