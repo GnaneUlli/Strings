@@ -2,7 +2,6 @@ How the C standard library functions process characters, strings, lines of text 
 Understanding the fundamentals of C is important to master it. Each compiler, translator, & interpreter handles these differently. 
 So,a thorough knowledge and understanding is a must. 
 
-
 Character: C complier handles it as an integer. Each character is a unique integer. Character is always singular.
 When asked to print with a printf function the integer will be converted into the proper character the integer represents. 
 
